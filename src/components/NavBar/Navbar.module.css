@@ -1,0 +1,14 @@
+.nav{
+    background-color: aquamarine;
+    grid-area: n;
+}
+.item{
+    color: white;
+}
+.item:hover{
+    cursor: pointer;
+    color: khaki;
+}
+.item a{
+    text-decoration: none;
+}
